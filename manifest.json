@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "name": "Test",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "https://github.com/Glitched-Studios-Offical/assets/blob/main/funny-cat-1.jpg?raw=true"
+  }
+}
